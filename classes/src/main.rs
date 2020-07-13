@@ -46,6 +46,6 @@ fn main() {
     };
     class.enroll(s);
     class.enroll_batch(vec);
-
+    println!("class {}", class);
     println!("class name: {}, class # students {}", class.name, class.students.len());
 }
