@@ -1,0 +1,5 @@
+[package]
+name = "codesignal_exercises"
+version = "1.0.0"
+authors = ["Daniel Fernando Cubides"]
+edition = "2018"
